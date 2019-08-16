@@ -3,7 +3,7 @@ eureka:
     service-url:
       defaultZone: http://eureka8001:8001/eureka/,http://eureka8002:8002/eureka/,http://eureka8003:8003/eureka/
 server:
-  port: 8788
+  port: 8787
 spring:
   application:
     name: service-ribbon
