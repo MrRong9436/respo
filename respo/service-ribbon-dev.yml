@@ -2,7 +2,7 @@ eureka:
   client:
     service-url:
       defaultZone ： http ： // eureka8001 ： 8001 / eureka /，http ： // eureka8002 ： 8002 / eureka
-服务器/
+server:
   port: 8787
 spring:
   application:
