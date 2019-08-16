@@ -6,4 +6,4 @@ server:
   port: 8787
 spring:
   application:
-    name: service-ribb
+    name: service-ribb6666
